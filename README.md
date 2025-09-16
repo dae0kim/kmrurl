@@ -1,6 +1,6 @@
-# \# kmrURL # pgm url
+# \# kmrURL # pgmURL
 
 #  - 김미리 : https://github.com/kimmiri1234/kmrurl
 
-\- https://github.com/GM-Park/pgmurl
+# &nbsp;- 박근모 : https://github.com/GM-Park/pgmurl
 
