@@ -5,3 +5,4 @@
 - 손큰솔 :  https://github.com/bigsol123/kunkun.git
 - 김대영 : https://github.com/dae0kim/kdyurl
 - 김세영 : https://github.com/Sezero99/kmrurl
+- 정소영 : https://github.com/soy4148/kmrurl
