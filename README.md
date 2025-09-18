@@ -7,3 +7,4 @@
 - 김세영 : https://github.com/Sezero99/kmrurl
 - 정소영 : https://github.com/soy4148/kmrurl
 - 이진 : https://github.com/leejinjl26-ai/jinjin
+- 전수현 https://github.com/jenlynnnn/kmrurl
