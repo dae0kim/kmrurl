@@ -1,3 +1,4 @@
+
 # kmrURL
 - 김미리 : https://github.com/kimmiri1234/kmrurl
 - 허수현 : https://github.com/suhyeon1032/kmrurl
@@ -8,3 +9,5 @@
 - 정소영 : https://github.com/soy4148/kmrurl
 - 이진 : https://github.com/leejinjl26-ai/jinjin
 - 전수현 https://github.com/jenlynnnn/kmrurl
+- 허수현 : https://github.com/suhyeon1032/kmrurl
+- 성찬미: https://github.com/seongchanmi/kmrurl
