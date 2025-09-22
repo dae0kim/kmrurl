@@ -1,4 +1,4 @@
-# URL
+## 오사카
 - 강동희: https://github.com/gangdonghui327-ux/day6homework
 - 김현정: https://github.com/258xsw/shinhanGYC
 - 성찬미: https://github.com/seongchanmi/homework
@@ -8,7 +8,7 @@
 - 이진: https://github.com/leejinjl26-ai/jinjin  
 - 최정민: https://github.com/CHOIJEONGMIN09/nemusugi
 - 최가희: https://github.com/oddpinkjade/2025-gyc
-<br>
+## 도쿄
 - 김대영: https://github.com/dae0kim/Tokyo_Java_Homework
 - 장선호: https://github.com/jangseonho/on-the-track-to-DEV
 - 김세영: https://github.com/Sezero99/Tokyo
