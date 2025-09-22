@@ -1,15 +1,15 @@
 # kmrURL
 - 김미리: https://github.com/kimmiri1234/kmrurl
-- 허수현: https://github.com/suhyeon1032/kmrurl
-- 강동희: https://github.com/gangdonghui327-ux/kmrurl.git
-- 손큰솔:  https://github.com/bigsol123/kunkun.git
-- 김대영: https://github.com/dae0kim/kdyurl
-- 이승이: https://github.com/LeeSeung-Yi
-- 장선호: https://github.com/jangseonho/jshurl
-- 김세영: https://github.com/Sezero99/kmrurl
-- 정소영: https://github.com/soy4148/kmrurl
+- 허수현: https://github.com/suhyeon1032/tokyo
+- 강동희: https://github.com/gangdonghui327-ux/day6homework
+- 손큰솔: https://github.com/bigsol123/MyHomeWork
+- 김대영: https://github.com/dae0kim/Tokyo_Java_Homework
+- 이승이: https://github.com/LeeSeung-Yi/OSAKA
+- 장선호: https://github.com/jangseonho/on-the-track-to-DEV
+- 김세영: https://github.com/Sezero99/Tokyo
+- 정소영: https://github.com/soy4148/shinhan
 - 이진: https://github.com/leejinjl26-ai/jinjin
-- 전수현: https://github.com/jenlynnnn/kmrurl
+- 전수현: https://github.com/jenlynnnn/tokyo
 - 허수현: https://github.com/suhyeon1032/kmrurl
 - 성찬미: https://github.com/seongchanmi/kmrurl
 - 배민혁: https://github.com/SETPROC
