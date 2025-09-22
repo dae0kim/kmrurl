@@ -11,6 +11,6 @@
 - 이진: https://github.com/leejinjl26-ai/jinjin
 - 전수현: https://github.com/jenlynnnn/tokyo
 - 허수현: https://github.com/suhyeon1032/kmrurl
-- 성찬미: https://github.com/seongchanmi/kmrurl
-- 배민혁: https://github.com/SETPROC
+- 성찬미: https://github.com/seongchanmi/homework
+- 배민혁: https://github.com/SETPROC/study
 - 박근모: https://github.com/GM-Park/pgmurl
