@@ -8,7 +8,7 @@
 - 이진: https://github.com/leejinjl26-ai/jinjin  
 - 최정민: https://github.com/CHOIJEONGMIN09/nemusugi
 - 최가희: https://github.com/oddpinkjade/2025-gyc
-===================================
+<br>
 - 김대영: https://github.com/dae0kim/Tokyo_Java_Homework
 - 장선호: https://github.com/jangseonho/on-the-track-to-DEV
 - 김세영: https://github.com/Sezero99/Tokyo
